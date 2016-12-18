@@ -1,0 +1,1 @@
+Date.now()//get the current time like as new Date()
